@@ -9,5 +9,5 @@ Here are the questions I worked on so far:
 
 2. Find the sum of two numbers each represented as a linked list in reverse order of digits.
 3. Given a string, find the length of the longest substring without repeating characters.
-
+1213. Given 3 sorted arrays, output the common elements of all 3 arrays.
 
